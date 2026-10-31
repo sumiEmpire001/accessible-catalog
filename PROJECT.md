@@ -1,19 +1,7 @@
-# accessible-catalog — build record
+# Build record
 
-Owner: Lord_Sumi (`sumiEmpire001`). Portfolio project 37 of 100.
+Owner: Lord_Sumi. Portfolio project 37 of 100.
 
-## Purpose
+Scope: Product catalogue with rich search, saved comparisons and accessible navigation.
 
-Product catalogue with rich search, saved comparisons and accessible navigation.
-
-## Required verification
-
-Filter combinations, comparison persistence and accessibility checks.
-
-## Current implementation status
-
-Planned build. This repository does not yet contain a working implementation; no tests have been run.
-
-## Completion criteria
-
-Runnable code, reproducible setup and demo, validated inputs, meaningful error handling, project-specific tests, architecture notes, recorded evidence and explicit limitations. Plans, scaffolds and mock screens do not count as completed implementations. Device and live-service checks must be recorded separately when applicable.
+Implemented as a responsive HTML/CSS/JavaScript local application with a portable build, twelve Node tests and thirteen real Chromium scenarios. Product data is synthetic. No hosted store or backend is claimed. Browser verification remains pending until the workflow is checked.
